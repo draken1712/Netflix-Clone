@@ -9,7 +9,7 @@ body {
 }
 
 .main {
-    background-image: url("images/netflix\ bg3.webp");
+    background-image: url("images/netflix\ bg\ immage.jpg");
     background-position: center center;
     background-size: max(1200px, 100vw);
     background-repeat: no-repeat;
@@ -20,7 +20,7 @@ body {
 .main .box {
     height: 644px;
     width: 100%;
-    opacity: 0.50;
+    opacity: 0.70;
     position: absolute;
     top: 0;
     background-color: black;
